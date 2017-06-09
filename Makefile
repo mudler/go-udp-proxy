@@ -28,6 +28,7 @@ deps:
 	go get github.com/mitchellh/gox
 	go get golang.org/x/tools/cmd/cover
 	go get github.com/mattn/goveralls
+	go get github.com/tcnksm/ghr
 	glide install
 	go build
 
