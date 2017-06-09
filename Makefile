@@ -50,4 +50,4 @@ test:
 	go test -cover
 
 build-and-deploy:
-make build BUILD_PLATFORMS="-os=linux -arch=amd64"
+	make build BUILD_PLATFORMS="-os=linux -arch=amd64"
