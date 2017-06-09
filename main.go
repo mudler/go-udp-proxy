@@ -14,7 +14,7 @@ import (
 )
 
 // VERSION is the app version
-const VERSION = "0.1"
+const VERSION = "0.2"
 
 // Information maintained for each client/server connection
 type Connection struct {
